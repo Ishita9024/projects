@@ -1,0 +1,27 @@
+{
+    "user": [
+        {
+            "username": "ishu",
+            "password": "vishu@12",
+            "profile": {
+                "description": "i love chocos",
+                "dob": "15.01.2000",
+                "hobbies": "music",
+                "gender": "f"
+            }
+        }
+    ]
+}{
+    "user": [
+        {
+            "username": "razia",
+            "password": "razia@123",
+            "profile": {
+                "description": "love",
+                "dob": "12.04.2000",
+                "hobbies": "eadimg",
+                "gender": "f"
+            }
+        }
+    ]
+}
